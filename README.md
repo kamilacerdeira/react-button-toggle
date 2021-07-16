@@ -1,6 +1,6 @@
 # React Button Toggle
+![react-button-toggle](https://user-images.githubusercontent.com/66564811/126001749-21710672-e8d6-4362-ad58-3627421cdf25.gif)
 
-### Autora
 
 ---
 
